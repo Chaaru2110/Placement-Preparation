@@ -1,4 +1,4 @@
-class Reversing{
+class ReversingNumber{
 static int rev_number(int x)
 {
 int rev1=0;
